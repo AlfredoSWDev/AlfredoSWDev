@@ -4,6 +4,4 @@
 </p>
 
 ## Sobre mi
-- Desarrollador **Kotlin, Ktor y Android**
-
-![Estadisticas de AlfredoSWDev](https://github-readme-stats.vercel.app/api?username=AlfredoSWDev&show_icons=true&theme=buefy)
+- Desarrollador **Java y Kotlin**
