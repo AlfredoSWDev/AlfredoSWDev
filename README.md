@@ -33,13 +33,6 @@ Un sistema diseñado bajo el concepto de **MVP (Producto Mínimo Viable)** que p
 * **Arquitectura:** Implementación de un CRUD completo conectado a PostgreSQL.
 * **Enfoque:** Análisis de negocio B2B y experiencia de usuario (UX) funcional.
 * **Estado:** En desarrollo activo (puedes ver el progreso en mis repositorios).
-
----
-
-### 📊 Estadísticas de GitHub
-![Estadísticas de Alfredo](https://github-readme-stats.vercel.app/api?username=AlfredoSWDev&show_icons=true&theme=radical)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=AlfredoSWDev&layout=compact&theme=radical)
-
 ---
 
 ### 🌐 Conecta conmigo
