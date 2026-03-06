@@ -33,13 +33,13 @@ Una plataforma completa diseñada bajo el concepto de **MVP (Producto Mínimo Vi
 
 | Componente | Tecnología | Descripción |
 |------------|------------|-------------|
-| [GeoEventosAPI](https://github.com/AlfredoSWDev/GeoEventosAPI) | Spring Boot + PostgreSQL | API REST con CRUD completo, coordenadas e integración con ImgBB |
-| [GeoEventosGUI](https://github.com/AlfredoSWDev/GeoEventosGUI) | Java Swing + Leaflet | Cliente de escritorio con mapa interactivo embebido |
-| [GeoEventosAndroid](https://github.com/AlfredoSWDev/GeoEventosAndroid) | Kotlin + Jetpack Compose | App móvil con mapa OSM y panel de detalle por evento |
+| API REST | Spring Boot 4 + PostgreSQL | CRUD completo, coordenadas, integración con ImgBB, 46 unit tests |
+| Cliente Desktop | Java Swing + Leaflet | Mapa interactivo embebido, gestión de eventos (B2B) |
+| App Móvil | Kotlin + Jetpack Compose | Mapa OSM y panel de detalle por evento |
 
 - **Arquitectura:** API REST desacoplada consumida por múltiples clientes (escritorio y mobile).
 - **Enfoque:** Análisis de negocio B2B, separación de responsabilidades y experiencia de usuario funcional.
-- **Estado:** En desarrollo activo — [ver todos los repositorios](https://github.com/AlfredoSWDev/GeoEventos).
+- **Estado:** En desarrollo activo — [ver el proyecto completo](https://github.com/AlfredoSWDev/GeoEventos).
 
 ---
 
